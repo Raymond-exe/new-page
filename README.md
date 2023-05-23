@@ -29,7 +29,7 @@
 
 # Part 1: GitHub Basics
 
-To start, make sure you have a [GitHub](https://github.com/login) account. We'll be using GitHub to store all files related to the website, and host the website itself as a [GitHub Pages](https://pages.github.com) site.
+To start, make sure you have a [GitHub](https://github.com/login) account. GitHub will help store all files related to our website, and host the website itself as a [GitHub Pages](https://pages.github.com) site.
 
 <br>
 
@@ -66,4 +66,36 @@ Lastly, you'll need to copy **your** repository's files onto your computer using
 
 # Part 3: Content & Coding
 
+Now that everything *else* is ready, we can begin writing code!
+
+<br>
+
+I recommend using [Visual Studio Code](https://code.visualstudio.com) to write code thanks to its [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin that allows us to preview the website as we code it, although any code editor should be able to work just fine.
+
+If you're using VS Code, here's a tutorial on how to set up the Live Server plugin:
+
+[![](https://markdown-videos.deta.dev/youtube/I2PlgSGT2Ls)](https://youtu.be/I2PlgSGT2Ls)
+
+<br>
+
+Go ahead and open this repository in your editor and open `index.html`. If this is your first time working with HTML, you can reference the [What is HTML?]() section above for help with HTML elements.
+
+<br>
+
+At this point you should be all set to create the website however you'd like, so everything below this line is mostly optional. If you won't be reading beyond this, you can delete both `example.html` and `images/crown.jpg`, but using these files we'll be making an example project portfolio website.
+
+<br>
+
+## Part 3.1: Making a (small) Portfolio!
+
+
+<br>
+
+---
+
+<br>
+
 # Part 4: Extra Resources
+- [W3 Schools - HTML Tutorial](https://www.w3schools.com/html/)
+- [W3 Schools - HTML Elements List](https://www.w3schools.com/tags/default.asp)
+- [W3 Schools - CSS Tutorial](https://www.w3schools.com/css/)
