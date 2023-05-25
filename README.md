@@ -14,7 +14,7 @@ Have fun!
 # Table of Contents
 
 > - [**Getting Started**](#getting-started)
->   - [*What is Git?*](#what-is-gits)
+>   - [*What is Git?*](#what-is-git)
 >   - [*What is GitHub & GitHub Pages?*](#what-is-github--github-pages)
 >   - [*What is HTML?*](#what-is-html)
 > - [**Part 1: Setting Up**](#part-1-setting-up)
@@ -35,7 +35,7 @@ Have fun!
 
 <br>
 
-## What is Git?
+## *What is Git?*
 Git is formally known as a "Version Control System". It allows us to track which changes have been made to a codebase, when they were made, by who, and even work collaboratively with other programmers on the same project.
 
 In git, programming projects are organized as "repositories". Each repository consists of "branches", which are copies of the codebase separated by feature or additions, later re-combined with the main/"master" branch once the feature is complete. Code is added/updated piecewise through "commits", which are authored by programmers and titled to represent the changes that were made.
@@ -53,12 +53,12 @@ For the purposes of this project, we'll be sticking to only using the master bra
 
 <br>
 
-## What is GitHub & GitHub Pages?
+## *What is GitHub & GitHub Pages?*
 GitHub is a company/website that allows users to store their Git repositories on their servers. GitHub Pages is a service run by GitHub which hosts websites from user repositories.
 
 <br>
 
-## What is HTML?
+## *What is HTML?*
 HTML is a language used to visually organize text (and images) on a page. It doesn't handle button logic nor is it super pretty, but it stores the primary content to be displayed on a page, before other languages such as CSS and JavaScript handle the prettiness and logic of the page, respectively.
 
 While not super complex, I would recommend going through W3 school's HTML tutorial available [here](https://www.w3schools.com/html/).
@@ -76,7 +76,7 @@ A full list of HTML elements are also available [here](https://www.w3schools.com
 
 <br>
 
-## GitHub Basics & Naming your Site
+## *GitHub Basics & Naming your Site*
 
 To start, make sure you have a [GitHub](https://github.com/login) account. GitHub will help store all files related to our website, and host the website itself as a [GitHub Pages](https://pages.github.com) site.
 
@@ -101,7 +101,7 @@ Lastly, you'll need to copy **your** repository's files onto your computer using
 
 <br>
 
-## Webpage Setup
+## *Webpage Setup*
 
 To set up your GitHub repository with GitHub pages, you'll want to navigate to the `Settings` tab of the repository.
 
@@ -120,7 +120,7 @@ Any updates to the `index.html` file in this repository should now be reflected 
 
 <br>
 
-## Setting up your IDE
+## *Setting up your IDE*
 
 An IDE / "Integrated Development Environment" is where you'll write all your code for the website.
 
@@ -142,14 +142,11 @@ Now that everything *else* is ready, we can begin writing code!
 
 Go ahead and open this repository in your editor and open `index.html`. If this is your first time working with HTML, you can reference the [What is HTML?]() section above for help with HTML elements.
 
+(this is still a work-in-progress, slow down there Nina >:| )
+
 <br>
 
 At this point you should be all set to create the website however you'd like, so everything below this line is mostly optional. If you won't be reading beyond this, you can delete both `example.html` and `images/crown.jpg`, but using these files we'll be making an example project portfolio website.
-
-<br>
-
-## Part 3.1: Making a (small) Portfolio!
-
 
 <br>
 
