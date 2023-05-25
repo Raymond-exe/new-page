@@ -3,7 +3,7 @@
 
 > ⚠️ This is **not** an advanced guide, please see [Extra Resources]() below if you're looking for those.
 
-This guide isn't meant to be completed all in one go, although it's entirely possible to. Feel free to take a break and pick this up later if you need to.
+This guide isn't meant to be completed all in one go, although it's entirely possible to. Feel free to take a break and pick this up later if you start to feel overwhelmed.
 
 If you have any questions or have feedback on how I can improve this guide, feel free to message my instagram [`@raymond-exe`](https://www.instagram.com/raymond.exe).
 
