@@ -8,17 +8,49 @@
 
 # Table of Contents
 
+(TODO)
+
+<br>
+
+---
+
+<br>
 
 # Getting Started
 
+(You don't *need* to read this, but it's helpful if you get confused later on while reading this).
+
+<br>
+
 ## What is Git?
+Git is formally known as a "Version Control System". It allows us to track which changes have been made to a codebase, when they were made, by who, and even work collaboratively with other programmers on the same project.
+
+In git, programming projects are organized as "repositories". Each repository consists of "branches", which are copies of the codebase separated by feature or additions, later re-combined with the main/"master" branch once the feature is complete. Code is added/updated piecewise through "commits", which are authored by programmers and titled to represent the changes that were made.
+
+This page you're reading is actually an example of a Git repository, hosted by GitHub.
+
+This is the current branch:
+
+![](https://media.discordapp.net/attachments/742768690889490464/1111207995607633950/image.png)
+
+
+And [here](https://github.com/Raymond-exe/new-page/commit/b05ee63bc7460fd9457113fb2800a589cab2f5ec) is an example of a Git commit.
+
+For the purposes of this project, we'll be sticking to only using the master branch, however you may see other GitHub Pages websites separate their master branch and their "live" branch, or the version of the website publicly seen.
+
+<br>
 
 ## What is GitHub & GitHub Pages?
+GitHub is a company/website that allows users to store their Git repositories on their servers. GitHub Pages is a service run by GitHub which hosts websites from user repositories.
+
+<br>
 
 ## What is HTML?
+HTML is a language used to visually organize text (and images) on a page. It doesn't handle button logic nor is it super pretty, but it stores the primary content to be displayed on a page, before other languages such as CSS and JavaScript handle the prettiness and logic of the page, respectively.
 
+While not super complex, I would recommend going through W3 school's HTML tutorial available [here](https://www.w3schools.com/html/).
 
-
+A full list of HTML elements are also available [here](https://www.w3schools.com/tags/default.asp).
 
 
 <br>
@@ -63,6 +95,14 @@ Lastly, you'll need to copy **your** repository's files onto your computer using
 <br>
 
 # Part 2: Webpage Setup
+
+
+
+<br>
+
+---
+
+<br>
 
 # Part 3: Content & Coding
 
