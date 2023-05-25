@@ -5,16 +5,25 @@
 
 (write a nice little welcome message here)
 
+<br><br>
 
 # Table of Contents
 
-(TODO)
-
+> - [**Getting Started**](#getting-started)
+>   - [*What is Git?*](#what-is-gits)
+>   - [*What is GitHub & GitHub Pages?*](#what-is-github--github-pages)
+>   - [*What is HTML?*](#what-is-html)
+> - [**Part 1: Setting Up**](#part-1-setting-up)
+>   - [*GitHub Basics & Naming your Site*](#github-basics--naming-your-site)
+>   - [*Webpage Setup*](#webpage-setup)
+>   - [*Setting up your IDE*](#setting-up-your-ide)
+> - [**Part 2: Content & Coding**](#part-2-content--coding)
+> - [**Part 3: Extra Resources**](#part-3-extra-resources)
 <br>
 
 ---
 
-<br>
+<br><br>
 
 # Getting Started
 
@@ -57,13 +66,15 @@ A full list of HTML elements are also available [here](https://www.w3schools.com
 
 ---
 
+<br><br>
+
+# Part 1: Setting Up
+
 <br>
 
-# Part 1: GitHub Basics
+## GitHub Basics & Naming your Site
 
 To start, make sure you have a [GitHub](https://github.com/login) account. GitHub will help store all files related to our website, and host the website itself as a [GitHub Pages](https://pages.github.com) site.
-
-<br>
 
 Next, fork ***this*** repository (using the `Fork` button or clicking [here](https://github.com/Raymond-exe/new-page/fork)) and follow the naming convention below:
 
@@ -78,11 +89,7 @@ As examples:
 - The same user's repository named **"blackjack"** will have the URL `https://raymond-exe.github.io/blackjack`.
 </details>
 
-<br>
-
 We'll be using the [GitHub Desktop](https://desktop.github.com) application to skip needing to learn Git commands, but if you already have it or have the Git CLI set up you can skip this step. You can download GitHub Desktop [here](https://desktop.github.com).
-
-<br>
 
 Lastly, you'll need to copy **your** repository's files onto your computer using GitHub Desktop. Follow the short tutorial below if it's is your first time doing this:
 
@@ -90,25 +97,28 @@ Lastly, you'll need to copy **your** repository's files onto your computer using
 
 <br>
 
----
+## Webpage Setup
+
+To set up your GitHub repository with GitHub pages, you'll want to navigate to the `Settings` tab of the repository.
+
+![](https://media.discordapp.net/attachments/774125506210693121/1111218070397136976/image.png)
+
+Next, click on `Pages` located at the bottom of the`Code and automation` section on the left.
+
+![](https://media.discordapp.net/attachments/774125506210693121/1111218070623625257/image.png)
+
+Now select the `master` branch, or the branch containing the version of the site you would like to display publicly, and click `Save` to confirm your selection.
+
+![](https://media.discordapp.net/attachments/774125506210693121/1111218070871093258/image.png)
+
+Any updates to the `index.html` file in this repository should now be reflected on a live GitHub Pages site!
+
 
 <br>
 
-# Part 2: Webpage Setup
+## Setting up your IDE
 
-
-
-<br>
-
----
-
-<br>
-
-# Part 3: Content & Coding
-
-Now that everything *else* is ready, we can begin writing code!
-
-<br>
+An IDE / "Integrated Development Environment" is where you'll write all your code for the website.
 
 I recommend using [Visual Studio Code](https://code.visualstudio.com) to write code thanks to its [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin that allows us to preview the website as we code it, although any code editor should be able to work just fine.
 
@@ -117,6 +127,14 @@ If you're using VS Code, here's a tutorial on how to set up the Live Server plug
 [![](https://markdown-videos.deta.dev/youtube/I2PlgSGT2Ls)](https://youtu.be/I2PlgSGT2Ls)
 
 <br>
+
+---
+
+<br><br>
+
+# Part 2: Content & Coding
+
+Now that everything *else* is ready, we can begin writing code!
 
 Go ahead and open this repository in your editor and open `index.html`. If this is your first time working with HTML, you can reference the [What is HTML?]() section above for help with HTML elements.
 
@@ -135,7 +153,7 @@ At this point you should be all set to create the website however you'd like, so
 
 <br>
 
-# Part 4: Extra Resources
+# Part 3: Extra Resources
 - [W3 Schools - HTML Tutorial](https://www.w3schools.com/html/)
 - [W3 Schools - HTML Elements List](https://www.w3schools.com/tags/default.asp)
 - [W3 Schools - CSS Tutorial](https://www.w3schools.com/css/)
